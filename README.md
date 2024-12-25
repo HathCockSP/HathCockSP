@@ -1,34 +1,48 @@
-## Hi there
+# Hi there! 👋  
 
-Howdy, I'm a senior full-stack & blockchain developer.
-I have over 12 years of experience in building websites & web apps & software development and 5 years of experience in blockchain projects.
-I am very strong in building frontend UI based on responsive features, translating UX/UI designs into interactive interfaces, and collaborating with the backend for API & web3 integrations.
-I have rich experience in building dapps, staking/farming/lending, NFT marketplace, P2E/bots etc, so I have been working in the blockchain field for around 5 years.
-As a professional who has thrived in roles such as Project Manager and Lead Developer, I bring to the table a comprehensive blend of technical expertise and leadership acumen.
+Welcome to my GitHub profile! Here’s a quick overview of the technologies I work with.  
 
-My comprehensive knowledge and experience span across:
+## 🚀 Languages and Tools  
 
-Frontend: HTML/HTML5, CSS/SCSS, Javascript/Typescript, Pixel Perfect/Responsive Design, Bootstrap/Tailwind/Material-UI/Styled Components, React.js/Angular.js/Vue.js/Next.js/Vite.js …
-Backend: Node.js/Express.js, C#, Python …
-Blockchain: Web3.js/Ether.js, Smart Contract(Solidity/Rust/Tomb), Hardhat/Truffle/Remix, Dapps/NFT Marketplace/P2E/bots/Crypto wallets, Wagmi, Alchemy, Moralis, networks(evm, solana, Iota, phantasma) …
-Database: MySQL, MongoDB, SQLite, Amazon DynamoDB, S3, PostgreSQL, Supabase ...
-Mobile: React Native, Java, Flutter, Kotlin ...
-PM Tools: Github, Gitlab, Trello, Monday, Bitbucket, Jira ...
-Services: Netlify/Vercel, Docker, AWS, Azure, Google Cloud, Heroku, IPFS ...
-Others: Figma, Adobe XD, Webflow, Linux, nginx, Hostinger …
-So, I am passionate about launching, developing, and maintaining web and blockchain projects, leveraging my broad experience in frontend and backend development, Web3 integration, system and application security, auditing, and project management, alongside my intuitive problem-solving skills.
+### Programming Languages  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)  
+![Rust](https://img.shields.io/badge/-Rust-000000?style=for-the-badge&logo=rust&logoColor=white)  
 
-<!--
-**HathCockSP/HathCockSP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Web Development  
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)  
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white)  
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs)  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)  
 
-Here are some ideas to get you started:
+### DevOps and Cloud  
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
+![AWS](https://img.shields.io/badge/-AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)  
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase)  
+![Azure](https://img.shields.io/badge/-Azure-0078D7?style=for-the-badge&logo=microsoftazure&logoColor=white)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Databases  
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
+
+### Frameworks and Libraries  
+![Express](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white)  
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)  
+![Apollo GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollographql)  
+
+### Version Control and Tools  
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)  
+![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visualstudiocode)  
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman)  
+
+## 📊 GitHub Stats  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark)  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark)  
+
+## 💬 Let's Connect  
+Feel free to reach out to me on LinkedIn or Twitter! 😊
